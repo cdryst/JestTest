@@ -9,7 +9,7 @@ toBe(5);
 });
 
 // Given
-test('3 * 4 = 12', () => {
+test.skip('3 * 4 = 12', () => {
 // When
   expect(mul(3, 4)).
 // Then
@@ -25,7 +25,7 @@ toBe(-1);
 });
 
 // Given
-test('8 / 4 = 2', () => {
+test.skip('8 / 4 = 2', () => {
 // When
   expect(div(8, 4)).
 // Then
