@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --verbose ./*.test.js"
+    "test": "HOST=http://localhost:3000 jest --verbose ./*.spec.js"
   },
   "keywords": [],
   "author": "",
