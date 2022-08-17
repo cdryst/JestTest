@@ -6,3 +6,4 @@
 - jest.config.js File
 - Code coverage
 - Yarn integration
+- Test automation
